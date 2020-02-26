@@ -17,7 +17,7 @@
   
 <body>
 	            <center> 
-<header id="header"><p> Fininfo Solutions </p></header>
+<header id="header" > <img src="LogoFininfo.png"  height="150" width="150"> <p> Fininfo Solutions </p></header>
 		    </center>
 
 	</br></br>
@@ -27,7 +27,7 @@
 	  
 	  <h1 >  VOTRE SATISFACTION, NOTRE DEVISE <img src="good.png"  height="50" width="50"> </h1>
 	  </br>
-	   <h1 >  Fininfo Devops :)------------->Tests Jenkins Bonjour Fininfo <img src="good.png"  height="50" width="50"> </h1>
+	   <h1 >  Tests Jenkins Bonjour Fininfo Solutions <img src="good.png"  height="50" width="50"> </h1>
 	  
 	  </br>
           <img src="Jenkins.png"  height="300" width="300"> 
