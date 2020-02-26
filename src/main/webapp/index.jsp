@@ -17,7 +17,7 @@
   
 <body>
 	            <center> 
-<header id="header" >  <p> <img src="LogoFininfo.png"  height="150" width="150"> Fininfo Solutions </p></header>
+<header id="header" >  <p> <img src="LogoFininfo.png"  height="90" width="90"> Fininfo Solutions </p></header>
 		    </center>
 
 	</br></br>
