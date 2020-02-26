@@ -5,7 +5,7 @@
    #header, #footer {
 			font-size: 40px;;
 			padding: 0.3em;
-			background: #d6df21;
+			background: #f0eb34;
 		}
    
    
@@ -17,7 +17,7 @@
   
 <body>
 	            <center> 
-<header id="header" > <img src="LogoFininfo.png"  height="150" width="150"> <p> Fininfo Solutions </p></header>
+<header id="header" >  <p> <img src="LogoFininfo.png"  height="150" width="150"> Fininfo Solutions </p></header>
 		    </center>
 
 	</br></br>
